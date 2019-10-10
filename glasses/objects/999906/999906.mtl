@@ -1,0 +1,88 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2013 TIG
+# Made for '999906.obj'
+
+newmtl Default_Material
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl _A05
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl _F04
+Ka 0.6 1 0.196078
+Kd 0.6 1 0.196078
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl _M06
+Ka 0.337255 0.337255 0.337255
+Kd 0.337255 0.337255 0.337255
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl _M05
+Ka 0.447059 0.447059 0.447059
+Kd 0.447059 0.447059 0.447059
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl __
+Ka 0.027451 0.788235 0.941176
+Kd 0.027451 0.788235 0.941176
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.48
+Tr 0.48
+
+newmtl _01
+Ka 0.72549 0.72549 0.72549
+Kd 0.72549 0.72549 0.72549
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd 999906_Textures/_01.jpg
+
+newmtl Translucent_Glass_Tinted1
+Ka 0.027451 0.788235 0.941176
+Kd 0.027451 0.788235 0.941176
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.48
+Tr 0.48
+map_Kd 999906_Textures/Translucent_Glass_Tinted1.jpg
+
+newmtl __2
+Ka 0.501961 0.501961 0.501961
+Kd 0.501961 0.501961 0.501961
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.5
+Tr 0.5
+
+newmtl __3
+Ka 1 0.996078 0.101961
+Kd 1 0.996078 0.101961
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.6
+Tr 0.6
+map_Kd 999906_Textures/__3.jpg
+
+#EOF
